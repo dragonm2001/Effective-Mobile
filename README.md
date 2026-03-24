@@ -24,8 +24,8 @@ Python-бэкенд за Nginx reverse proxy, всё в Docker.
 
 ```bash
 # 1. Клонируем репозиторий
-git clone https://github.com/<your-org>/effective-mobile-docker.git
-cd effective-mobile-docker
+git clone https://github.com/dragonm2001/Effective-Mobile.git
+cd effective-mobile
 
 # 2. Если порт 80 занят меняем в .env
 cp .env.example .env
